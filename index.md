@@ -6,7 +6,7 @@ title: false
 
 This is Process Op, a proven set of problem-solving tools that you can use to greatly improve the output of your manufacturing equipment.
 
-On this site you will find a series of video lessons and walkthroughs, covering everything you'll need to optimize your processes:
+On this site you will find a series of video lessons and walkthroughs covering everything you'll need to optimize your processes:
 1. Understand potential performance
 2. Understand current performance
 3. Find the output bottleneck
