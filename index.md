@@ -22,6 +22,6 @@ In addition to the video lessons, you'll have direct support from seasoned Proce
 * Jeff McMurray
 * Michelle Erickson
 
-Upon completion of this curriculum, you will be confident in your ability to drive immensely valuable output improvement projects as a certified BD Process Op Practitioner.
+Upon completion of this curriculum, you will be confident in your ability to drive immensely valuable output improvement projects as a certified **BD Process Op Practitioner**.
 
 <iframe src="https://www.youtube.com/embed/dGC3AblJrs0"></iframe>
