@@ -17,10 +17,7 @@ Here you will find a series of video lessons covering the underlying theory, bro
 8. Cycle back to 2, repeat process til output goal is met
 9. Results tracking
 
-In addition to the video lessons, you'll have direct support from seasoned Process Op experts:
-* Paul Barkell
-* Jeff McMurray
-* Michelle Erickson
+In addition to the video lessons, you'll have direct support from seasoned Process Op experts.
 
 Upon completion of this curriculum, you will be confident in your ability to drive immensely valuable output improvement projects as a certified **BD Process Op Practitioner**.
 
