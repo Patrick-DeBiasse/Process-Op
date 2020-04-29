@@ -4,11 +4,11 @@
 * [Week 2]({{"/syllabus" | relative_url }})
 * [Week 3]({{"/syllabus" | relative_url }})
 * [Week 4]({{"/syllabus" | relative_url }})
-* [Week 5]({{"/syllabus" | relative_url }})
-* [Week 6]({{"/syllabus" | relative_url }})
 
 ***
 
+[//]: # * [Week 5]({{"/syllabus" | relative_url }})
+[//]: # * [Week 6]({{"/syllabus" | relative_url }})
 [//]: # * [Step 7]({{"/syllabus" | relative_url }})
 [//]: # * [Step 8]({{"/syllabus" | relative_url }})
 [//]: # * [Step 9]({{"/syllabus" | relative_url }})
