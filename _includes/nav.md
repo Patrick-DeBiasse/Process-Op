@@ -7,9 +7,9 @@
 * [Week 5]({{"/syllabus" | relative_url }})
 * [Week 6]({{"/syllabus" | relative_url }})
 ***
-[//]: # * [Step 7]({{"/syllabus" | relative_url }})
-[//]: # * [Step 8]({{"/syllabus" | relative_url }})
-[//]: # * [Step 9]({{"/syllabus" | relative_url }})
+[//]: #* [Step 7]({{"/syllabus" | relative_url }})
+[//]: #* [Step 8]({{"/syllabus" | relative_url }})
+[//]: #* [Step 9]({{"/syllabus" | relative_url }})
 
 [//]: # ***
 [//]: # * [Tools]({{ "/tools" | relative_url }})
