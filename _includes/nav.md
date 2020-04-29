@@ -1,16 +1,17 @@
 ***
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
-* [Step 1]({{"/syllabus" | relative_url }})
-* [Step 2]({{"/syllabus" | relative_url }})
-* [Step 3]({{"/syllabus" | relative_url }})
-* [Step 4]({{"/syllabus" | relative_url }})
-* [Step 5]({{"/syllabus" | relative_url }})
-* [Step 6]({{"/syllabus" | relative_url }})
-* [Step 7]({{"/syllabus" | relative_url }})
-* [Step 8]({{"/syllabus" | relative_url }})
-* [Step 9]({{"/syllabus" | relative_url }})
-
+* [Week 1]({{"/syllabus" | relative_url }})
+* [Week 2]({{"/syllabus" | relative_url }})
+* [Week 3]({{"/syllabus" | relative_url }})
+* [Week 4]({{"/syllabus" | relative_url }})
+* [Week 5]({{"/syllabus" | relative_url }})
+* [Week 6]({{"/syllabus" | relative_url }})
 ***
+[//]: # * [Step 7]({{"/syllabus" | relative_url }})
+[//]: # * [Step 8]({{"/syllabus" | relative_url }})
+[//]: # * [Step 9]({{"/syllabus" | relative_url }})
+
+[//]: # ***
 [//]: # * [Tools]({{ "/tools" | relative_url }})
 
 
