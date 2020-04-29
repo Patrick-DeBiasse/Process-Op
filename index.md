@@ -8,10 +8,10 @@ Process Op is a proven set of problem-solving tools that can greatly improve the
 
 Here you will find the 4 week curriculum, consisting of instructor-led lessons, video walkthroughs, and guided implementations:
 
-Week 1 - Kickoff
-Week 2 - Current & Potential Performance
-Week 3 - Bottleneck & Cycle Analysis
-Week 4 - Results Tracking
+- Week 1 - Kickoff
+- Week 2 - Current & Potential Performance
+- Week 3 - Bottleneck & Cycle Analysis
+- Week 4 - Results Tracking
 
 Throughout the 4 week course, you'll have ongoing direct support from Process Op experts.
 
