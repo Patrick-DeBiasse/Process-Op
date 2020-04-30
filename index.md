@@ -13,10 +13,8 @@ Here you will find the 4 week curriculum, consisting of instructor-led lessons, 
 - Week 3 - Bottleneck & Cycle Time Analysis
 - Week 4 - Results Tracking & Sustaining
 
-In addition, you'll have recurring check-ins with Process Op experts that can help with any challenges you might encounter.
+In addition, you'll have recurring check-ins with Process Op experts able to guide you through any challenges you might encounter.
 
-Upon completion of the course, you will be certified as a **BD Process Op Practitioner**.
-
-To enroll in the next session, email <ProcessOp@BD.com>.
+Upon completion of the course, you will be certified as a **BD Process Op Practitioner**. To enroll in the next session, email <ProcessOp@BD.com>.
 
 <iframe src="https://www.youtube.com/embed/dGC3AblJrs0"></iframe>
