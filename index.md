@@ -4,7 +4,7 @@ title: false
 
 # Welcome to Process Optimization!
 
-Process Op is a proven set of problem-solving tools that will improve the output of your site's manufacturing equipment - often 20% or more.
+Process Op is a proven set of problem-solving tools that will improve the output of your site's manufacturing equipment - often by 20% or more.
 
 Here you will find the 4 week curriculum, consisting of instructor-led lessons, video walkthroughs, and guided implementations:
 
